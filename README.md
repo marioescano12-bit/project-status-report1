@@ -15,3 +15,9 @@
 ## Week 3 - January 20, 2026
 - Majoy milestone achieved
 - Budget: $42,000
+
+****
+
+## Week 4 - January 27, 2026
+- Project review meeting
+- Development phase 75% complete
