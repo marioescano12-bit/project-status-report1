@@ -27,4 +27,4 @@
 ### Week 5 - February 3, 2026
 - Development phase completed
 - Testing begins
-- Budget: $35,000
+- Budget: $33,000
